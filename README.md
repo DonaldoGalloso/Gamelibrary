@@ -16,7 +16,18 @@ Application to store your games from different companies such as Xbox, PlayStati
 <p align="center">
   <img src="https://github.com/DonaldoGalloso/Gamelibrary/blob/main/README/LOGIN.png">
 </p>
- ![Demo](README/LOGIN.png)
+
+<p align="center">
+  <img src="https://github.com/DonaldoGalloso/Gamelibrary/blob/main/README/GAMESGRID.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/DonaldoGalloso/Gamelibrary/blob/main/README/EDITGAME.png">
+</p>
+
+ <p align="center">
+  <img src="https://github.com/DonaldoGalloso/Gamelibrary/blob/main/README/AddGame.png">
+</p>
 
 
 ## Authors
