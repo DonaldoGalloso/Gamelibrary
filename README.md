@@ -14,7 +14,7 @@ Application to store your games from different companies such as Xbox, PlayStati
 
 ## Demo
 
- ![Demo](LOGIN.png)
+ ![Demo](README/LOGIN.png)
 
 
 ## Authors
